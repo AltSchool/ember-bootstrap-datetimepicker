@@ -20,6 +20,7 @@ var bsDateTimePickerComponent = Ember.Component.extend({
   enabledDates:[],
 
   disabled:false,
+  placeholder: null,
   open: false,
   forceDateOutput: false,
 
