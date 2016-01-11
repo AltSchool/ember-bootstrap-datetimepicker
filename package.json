@@ -1,6 +1,6 @@
 {
   "name": "ember-bootstrap-datetimepicker",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -32,6 +32,9 @@
     "ember-data": "1.0.0-beta.10",
     "express": "^4.8.5",
     "glob": "^4.0.5"
+  },
+  "dependencies": {
+    "ember-cli-babel": "^5.1.6"
   },
   "keywords": [
     "ember-addon",
